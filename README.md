@@ -1,5 +1,5 @@
 # Traffic-count
-Counting vehicles using Opencv2 and Python3
+## Counting vehicles using Opencv2 and Python3
 
 The code for counting vehicles is in Vehicle_count.py
 
